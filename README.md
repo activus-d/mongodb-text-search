@@ -1,4 +1,4 @@
-# MongoDB text search — Python examples
+# MongoDB Text Search — Python Examples
 
 This repository contains the code samples for the "How to Use MongoDB's Text Search" tutorial. It covers six text search operations:
 
